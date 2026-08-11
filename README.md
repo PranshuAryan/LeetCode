@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/PranshuAryan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PranshuAryan/LeetCode/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/PranshuAryan/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
