@@ -66,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PranshuAryan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/PranshuAryan/LeetCode/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PranshuAryan/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/PranshuAryan/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,10 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PranshuAryan/LeetCode/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PranshuAryan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
