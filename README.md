@@ -52,6 +52,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/PranshuAryan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PranshuAryan/LeetCode/tree/master/0344-reverse-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PranshuAryan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PranshuAryan/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PranshuAryan/LeetCode/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PranshuAryan/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/PranshuAryan/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PranshuAryan/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -84,10 +86,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PranshuAryan/LeetCode/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PranshuAryan/LeetCode/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +100,10 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PranshuAryan/LeetCode/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:059669&height=3&width=100%" />
