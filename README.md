@@ -76,6 +76,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PranshuAryan/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/PranshuAryan/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PranshuAryan/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2733-neither-minimum-nor-maximum](https://github.com/PranshuAryan/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/PranshuAryan/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/PranshuAryan/LeetCode/tree/master/0414-third-maximum-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2733-neither-minimum-nor-maximum](https://github.com/PranshuAryan/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
