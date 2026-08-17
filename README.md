@@ -71,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PranshuAryan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PranshuAryan/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PranshuAryan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/PranshuAryan/LeetCode/tree/master/0414-third-maximum-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PranshuAryan/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/PranshuAryan/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/PranshuAryan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PranshuAryan/LeetCode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/PranshuAryan/LeetCode/tree/master/0414-third-maximum-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PranshuAryan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
